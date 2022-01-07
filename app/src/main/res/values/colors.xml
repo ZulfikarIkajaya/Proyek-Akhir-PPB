@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#749FA0</color>
+    <color name="colorPrimaryDark">#749FA0</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Tambah">#84C637</color>
+    <color name="Kurang">#EA5642</color>
+    <color name="colorWhite">#FFF</color>
+</resources>
